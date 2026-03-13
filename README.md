@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Omkar Panchawadkar</h1>
 <h3 align="center">Software Engineer in the making</h3>
 
-- ⚡ **An Engineer on track to graduate in 2027 — building software by day, chasing goals by night ⚽💻**
+- ⚡ **An Engineer on track to graduate in 2027, building software by day, chasing goals by night ⚽💻**
 
 - 📫 Reach me at **opanch8105@gmail.com**
 
